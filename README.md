@@ -13,7 +13,7 @@
 ### 🔹 ADD COMPONENTE :
 ![Imagen](docs2/m1.png)
 
-### 🔹 AÑADIR 2 CARDS :
+### 🔹 AÑADIR CARDS :
 ![Imagen](docs2/m2.png)
 
 ### 🔹 AÑADIR CARDPROPS :
@@ -25,6 +25,6 @@
 ### 🔹 MANEJO DE ESTADO :
 ![Imagen](docs2/m5.png)
 
-# 2. XIOMARA GARCIA SILVA
+# 2. Xiomara Garcia Silva
 
 # 3. Mauricio Rojas
